@@ -1,0 +1,46 @@
+	body,h1,h2,h3,h4,h5,h6,p,ul,ol,dd,dl,input {
+		margin: 0;
+		padding: 0;
+	}
+	ul,ol {
+		/*padding: 40px;*/
+		/*list-style-type: none;*/
+		/*list-style-image: url(1.png); */
+		/*list-style-position: outside; */
+		list-style: none;
+	}
+	/*设置默认的文字大小和类型*/
+	body {
+		font-size: 12px;
+		font-family: "宋体";
+	}
+	h1,h2,h3,h4,h5,h6,b,strong {
+		font-size: 1em;
+		font-weight: normal;
+	}
+	a {
+		text-decoration: none;
+		color: black;
+	}
+	a:hover {
+		text-decoration: none;
+		/*text-decoration: underline;*/
+		/*color: red;*/
+	}
+	i,em {
+		font-style: normal;
+	}
+	input {
+		outline: none;
+		/*border: 1px red;*/
+	}
+	a {
+		outline: none;
+	}
+	select,input,img {
+		vertical-align: middle;
+	}
+	.clear-fix:after { content: ""; display: block; clear: both; }
+	.clear-fix { zoom: 1; }
+	.fl { float: left; }
+	.fr { float: right; }
