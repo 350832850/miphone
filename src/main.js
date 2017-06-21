@@ -1,27 +1,24 @@
+// The Vue build version to load with the `import` command
+// (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
-import App from './App.vue'
-import VueRouter from 'vue-router'
-import VueResource from 'vue-resource'
-// import ElementUI from 'element-ui'
-// import 'element-ui/lib/theme-default/index.css'
+import App from './App'
+import router from './router'
 
-import header from './component/header.vue'
+import '../static/js/common.js'
+import '../static/css/swiper-3.4.2.min.css'
+import '../static/css/base.css'
+import '../static/css/iconfont.css'
 
-Vue.use(VueRouter);
+// import global from '../static/js/global'
+// Vue.prototype.GLOBAL = global
 
-const router = new VueRouter({
-	routes:[
-		{path:'/home',component:header},
-        // {path:'/type',component:},
-        // {path:'/buycar',component:},
-        // {path:'/my',component:},
-        {path:'*',redirect:'/home'}
-	]
-})
+Vue.config.productionTip = false
 
+/* eslint-disable no-new */
 new Vue({
   el: '#app',
   router,
-  render: h => h(App)
+  template: '<App/>',
+  components: {App}
 })
 
