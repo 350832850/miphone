@@ -62,8 +62,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -75,8 +75,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -88,8 +88,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -112,8 +112,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/efb682b76a29411fd26d990971992c3e.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/efb682b76a29411fd26d990971992c3e.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -125,8 +125,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -138,8 +138,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -151,8 +151,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -175,8 +175,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0d7f8167e14f0c70fd84aa6cb321cb6.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0d7f8167e14f0c70fd84aa6cb321cb6.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -188,8 +188,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -201,8 +201,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -214,8 +214,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -252,8 +252,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/0ed187521ff28e6616798c1c990c1788.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/0ed187521ff28e6616798c1c990c1788.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -265,8 +265,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -278,8 +278,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -291,8 +291,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -315,8 +315,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/e55a5383-9b7f-1dfd-7f12-e648f69f5c41.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/e55a5383-9b7f-1dfd-7f12-e648f69f5c41.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -328,8 +328,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -341,8 +341,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -354,8 +354,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -378,8 +378,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -391,8 +391,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -404,8 +404,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -417,8 +417,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -455,8 +455,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -468,8 +468,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -481,8 +481,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -494,8 +494,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -518,8 +518,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -531,8 +531,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -544,8 +544,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -557,8 +557,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -581,8 +581,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -594,8 +594,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -607,8 +607,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -620,8 +620,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -658,8 +658,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -671,8 +671,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -684,8 +684,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -697,8 +697,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -721,8 +721,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -734,8 +734,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -747,8 +747,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -760,8 +760,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -798,8 +798,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -811,8 +811,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -824,8 +824,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -837,8 +837,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -875,8 +875,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -888,8 +888,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -901,8 +901,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -914,8 +914,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -952,8 +952,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -965,8 +965,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -978,8 +978,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -991,8 +991,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1029,8 +1029,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1042,8 +1042,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1055,8 +1055,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1068,8 +1068,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1106,8 +1106,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1119,8 +1119,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1132,8 +1132,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1145,8 +1145,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1183,8 +1183,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1196,8 +1196,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1209,8 +1209,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1222,8 +1222,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1260,8 +1260,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1273,8 +1273,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1286,8 +1286,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1299,8 +1299,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1337,8 +1337,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1350,8 +1350,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1363,8 +1363,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1376,8 +1376,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1414,8 +1414,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1427,8 +1427,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1440,8 +1440,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1453,8 +1453,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1491,8 +1491,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1504,8 +1504,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1517,8 +1517,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
@@ -1530,8 +1530,8 @@
                          href="/#/product/view?product_id=10000041" data-stat-id="025ab48d5607e4e1"
                          onclick="_msq.push(['trackEvent', '221a86c5a4688b35-025ab48d5607e4e1', '/#/product/viewproduct_id=10000041', 'pcpid', '31wapcategory_newcategory_group001016#rid=02b26b7342d70ef2045f5072ae9a6ccb&amp;t=normal&amp;page=category_new&amp;act=product&amp;pid=10000041']);">
                         <div class="img">
-                          <img class="big lazy" data-src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
-                               src=" ../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                          <img class="big lazy" data-src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
+                               src="../../static/img/f0e283f74845939fd24d53f7fb1d35c1.png"
                                style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
                         </div>
                         <div class="name">小米6</div>
