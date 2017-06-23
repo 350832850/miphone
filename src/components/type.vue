@@ -27,7 +27,7 @@
                   <div class="cells_auto_fill">
                     <div data-index="0" class="body" style="width: 5rem; height: 2rem;">
                       <div class="items J_linksign-customize" style="width: 5rem; height: 2rem;">
-                        <a name="pro1" class="exposure" href="javascript:;" v-for="(v, i) in val.ad">
+                        <a name="key" class="exposure" href="javascript:;" v-for="(v, i) in val.ad">
                           <div class="img">
                             <img class="lazy" data-src="" :src="v.img"
                                  style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
@@ -144,6 +144,7 @@
       },
       addClass (ky) {
         this.iNow = ky
+        $()
       }
     }
   }
@@ -243,6 +244,7 @@
     right: -.3rem;
     padding: .2rem .3rem .2rem 0;
     background: #fefefe;
+    overflow-y: auto;
   }
 
   .page-category .list-navbar > ul li {
