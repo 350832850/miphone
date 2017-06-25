@@ -27,7 +27,7 @@
                   <div class="cells_auto_fill">
                     <div data-index="0" class="body" style="width: 5rem; height: 2rem;">
                       <div class="items J_linksign-customize" style="width: 5rem; height: 2rem;">
-                        <a name="key" class="exposure" href="javascript:;" v-for="(v, i) in val.ad">
+                        <a :name="key" class="exposure" href="javascript:;" v-for="(v, i) in val.ad">
                           <div class="img">
                             <img class="lazy" data-src="" :src="v.img"
                                  style="transform-origin: 0px 0px 0px; opacity: 1; transform: scale(1, 1);">
@@ -67,7 +67,7 @@
         <div class="list-navbar" :style="{top:top + 'rem'}">
           <ul>
             <li v-for="(v, i) in listNav" @click="addClass(v.ky)" :class="v.ky==iNow?'active':''">
-              <span>{{v.name}}</span></li>
+              <a :href="`#${v.ky}`"><span>{{v.name}}</span></a></li>
           </ul>
         </div>
         <div class="footer">
@@ -119,8 +119,9 @@
     data () {
       return {
         s: '',
+        offsetTop: 0,
         top: '',
-        iNow: '',
+        iNow: 'new',
         listNav,
         jsonL
       }
@@ -144,7 +145,6 @@
       },
       addClass (ky) {
         this.iNow = ky
-        $()
       }
     }
   }
@@ -263,9 +263,12 @@
   }
 
   .page-category .list-navbar > ul li.active {
-    color: #fb7d34;
     transform: scale(1);
     -webkit-transform: scale(1);
+  }
+
+  .page-category .list-navbar > ul li.active a{
+    color: #fb7d34;
   }
 
   .f-list .cells_auto_fill .items img {

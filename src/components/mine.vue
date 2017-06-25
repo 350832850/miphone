@@ -142,6 +142,7 @@
 
   .page-personal-center .a1 {
     background: #fff;
+    overflow: hidden;
   }
 
   .page-personal-center .a1 a.bill {
